@@ -1,6 +1,8 @@
 # 🥋 COMPTE RENDU - PROJET AI ASSISTANT
 ## Analyse et Prédiction de Performance en Taekwondo
 
+
+
 ---
 
 **Projet :** AI Assistant pour l'Analyse Sportive  
