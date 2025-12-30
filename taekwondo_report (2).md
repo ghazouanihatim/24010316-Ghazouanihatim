@@ -3,7 +3,7 @@
 
 ### À propos de l’auteur
 
-![Photo de l’auteur](HatimGhazouani.jpg)
+![Photo de l’auteur](HatimGhazouani.JPG)
 
 ---
 
