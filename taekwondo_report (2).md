@@ -1,8 +1,10 @@
 # 🥋 COMPTE RENDU - PROJET AI ASSISTANT
 ## Analyse et Prédiction de Performance en Taekwondo
 
+### À propos de l’auteur
 
-Campus pic.JPG
+![Photo de l’auteur](HatimGhazouani.jpg)
+
 ---
 
 **Projet :** AI Assistant pour l'Analyse Sportive  
